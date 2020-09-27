@@ -2,8 +2,8 @@
 
 加速度センサーが無効になっているかのテスト
 
-## 使い方
+## 概要
 
-![2020-09-27_195313](https://user-images.githubusercontent.com/6134875/94363125-0ffd9380-00fb-11eb-9e1c-8275c7c3da02.png)
+![2020-09-27_200155](https://user-images.githubusercontent.com/6134875/94363297-3ec83980-00fc-11eb-9a1b-e73762dee19b.png)
 
-Unity Test Runner から実行できます  
+加速度センサーを使用しないプロジェクトにおいて、加速度センサーが無効になっているかテストできます  
